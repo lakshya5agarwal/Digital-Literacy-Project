@@ -30,7 +30,7 @@ Wrote professional emails and created social media checklist.
 Studied phishing attack and created prevention guide.
 
 ## Links
-Google Form: 
+Google Form: https://docs.google.com/forms/d/e/1FAIpQLSfEmccLR7l7_qy8oJoqsCrnFxHWSkAgjFCGg9mjZa2Rk4jKKg/viewform?usp=publish-editor
 
 ## Final Thought
 This project helped me understand how digital presence is important in today's world.
